@@ -27,7 +27,8 @@ $ gcc Part1.c
 $ a.exe p1.obj
 ```
 For the C++ program, type the following into your terminal.
-```g++ Part1.cpp
-a.exe p1.obj
+```
+$ g++ Part1.cpp
+$ a.exe p1.obj
 ```
 
